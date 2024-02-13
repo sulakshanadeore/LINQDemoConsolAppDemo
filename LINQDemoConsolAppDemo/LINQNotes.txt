@@ -1,0 +1,27 @@
+LINQ and ADO.NET
+----------------
+
+What is LINQ?
+Language Integrated Query is a feature of C# 3.0 onwards.
+
+1)Objects---Array and Any Collection(Generic or NonGeneric)
+2)XML-------XML File
+3)DataSets----- Sets of Data fetched from the database 
+
+ 2 ways:
+1) Query Syntax
+2) Extension Methods and Lambda(method syntax)
+
+console/Windows/Web application:
+
+
+var ----> variable--->Whatever is the datatype of the output will be the datatype of the varaible declared using var.
+var a=10;//int32
+var b=3.14f;//float
+var c=new int[]{2,4,55};//int[]
+
+var decides the data type for the output calculated.
+
+Lazy Loading----> its by default 
+Eager Loading----> tolist()
+Explicit Loading---->Take and skip

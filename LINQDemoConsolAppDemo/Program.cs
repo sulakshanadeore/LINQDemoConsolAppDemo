@@ -51,6 +51,18 @@ namespace LINQDemoConsolAppDemo
                                      orderby deptGroup.Key
                                      select deptGroup;
 
+            //deptGroup
+            //    10
+            //    Empno = 1,EmpName = "Sarang",Sal = 10000,Deptno = 10
+
+
+
+            //    20
+            //    30
+
+            //    70
+            //    Empno = 110,EmpName = "Gauri",Sal = 10000,Deptno = 70
+
             //Show all the employees of deptno=10
 
 
